@@ -1,0 +1,7 @@
+category: Ruby Devel
+requires: rake ruby 
+sdesc: "Rake extension for building Ruby C and Java extensions"
+ldesc: "rake-compiler aims to help Gem developers deal with Ruby 
+extensions, simplifying code and reducing duplication. It follows 
+convention over configuration and sets a standardized structure to build 
+and package both C and Java extensions in your gems."
