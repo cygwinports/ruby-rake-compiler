@@ -1,6 +1,9 @@
 inherit rubygem
 
-
+NAME="ruby-rake-compiler"
+VERSION=0.8.3
+RELEASE=1
+CATEGORY="Ruby"
 SUMMARY="Rake extension for building Ruby C and Java extensions"
 DESCRIPTION="rake-compiler aims to help Gem developers deal with Ruby
 extensions, simplifying code and reducing duplication. It follows
